@@ -6,6 +6,10 @@ import time
 import tkinter
 import tkinter.messagebox
 import pyperclip 
+import config
+import os
+import sys
+import io
 
 app = customtkinter.CTk()
 app.title("UNIX Конвертов")
