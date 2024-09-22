@@ -7,9 +7,6 @@ import tkinter
 import tkinter.messagebox
 import pyperclip 
 
-def button_callback():
-    print("button clicked")
-
 app = customtkinter.CTk()
 app.title("UNIX Конвертов")
 app.geometry("720x450")
