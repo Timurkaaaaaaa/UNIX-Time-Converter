@@ -17,7 +17,7 @@ app = customtkinter.CTk()
 app.title("UNIX Конвертов")
 app.geometry("720x450")
 customtkinter.set_default_color_theme("dark-blue")
-app.after(201, lambda :app.iconbitmap('icon.ico'))
+app.after(201, lambda :app.iconbitmap('assets/icon.ico'))
 customtkinter.set_appearance_mode(cfg["appearance_mode"])
 customtkinter.set_default_color_theme("themes/" + cfg["color_theme_path"])
 
