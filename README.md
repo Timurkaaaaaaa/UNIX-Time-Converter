@@ -8,7 +8,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Language-Python-yellow">
-   <img src="https://img.shields.io/badge/Version-v1.0-blue">
+   <img src="https://img.shields.io/badge/Version-v1.1-blue">
    <img src="https://img.shields.io/badge/License-MIT-red">
 </p>
 
@@ -38,6 +38,9 @@
 Из UNIX:
 Вам требуется назвать время в UNIX формате и нажать на кнопку "Конвертировать", далее Вы получите результат в отдельном окне с кнопкой "Скопировать".
 При нажатии кнопки "Скопировать", дата и время будут сохранены в буфер обмена.
+
+## Планируется:
+- Создание возможности изменения темы программы через интерфейс
 
 ## Разработчики
 
