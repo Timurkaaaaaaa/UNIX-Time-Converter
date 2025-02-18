@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-      UNIX Time Converter
+      UNIX Сonverter
 </p>
 
 <p align="center">
